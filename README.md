@@ -283,6 +283,7 @@ AI 分析病理切片（H&E、IHC 等），用于诊断、预后及生物标志�
 
 | 项目 | 描述 | Stars |
 |------|------|-------|
+| [romeo111/OpenOnco](https://github.com/romeo111/OpenOnco) | 通过 MCP 工具向 AI 助手提供基于确定性规则、附有来源引用的肿瘤治疗方案草案和诊断摘要；项目处于早期阶段，须由临床医生审核 | ![Stars](https://img.shields.io/github/stars/romeo111/OpenOnco) |
 | [shibing624/MedicalGPT](https://github.com/shibing624/MedicalGPT) | 训练你自己的医疗 GPT，提供完整训练流水线 | ![Stars](https://img.shields.io/github/stars/shibing624/MedicalGPT) |
 | [SCIR-HI/Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) | 基于 LLaMA 的中文医学大模型 | ![Stars](https://img.shields.io/github/stars/SCIR-HI/Huatuo-Llama-Med-Chinese) |
 | [microsoft/BioGPT](https://github.com/microsoft/BioGPT) | 微软出品。面向生物医学文本的生成式预训练 Transformer | ![Stars](https://img.shields.io/github/stars/microsoft/BioGPT) |

@@ -282,6 +282,7 @@ Large language models and AI agents for medicine and oncology.
 
 | Project | Description | Stars |
 |---------|-------------|-------|
+| [romeo111/OpenOnco](https://github.com/romeo111/OpenOnco) | MCP tools let AI assistants request source-cited oncology plan drafts and diagnostic briefs from a deterministic rules engine; early-stage, clinician review required | ![Stars](https://img.shields.io/github/stars/romeo111/OpenOnco) |
 | [shibing624/MedicalGPT](https://github.com/shibing624/MedicalGPT) | Train your own medical GPT with full pipeline | ![Stars](https://img.shields.io/github/stars/shibing624/MedicalGPT) |
 | [SCIR-HI/Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) | Chinese medical LLM based on LLaMA | ![Stars](https://img.shields.io/github/stars/SCIR-HI/Huatuo-Llama-Med-Chinese) |
 | [microsoft/BioGPT](https://github.com/microsoft/BioGPT) | Microsoft. Generative pre-trained transformer for biomedical text | ![Stars](https://img.shields.io/github/stars/microsoft/BioGPT) |
